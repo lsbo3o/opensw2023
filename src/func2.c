@@ -3,5 +3,6 @@
 void goo()
 {
     printf("goo\n");
+    printf("googoogoo\n");
     return;
 }
